@@ -1,4 +1,7 @@
-## Hi there 👋
+# GUSTAVO SEABRA
+
+Graduando em Engenharia de Computação na Universidade Federal do Ceará, estudando programação e hardware, com interece principal na área de Microeletronica, Sistemas Embarcados e Controle.  
+Já participou de olimpiadas de programação e matemática, além de grupos de extensão voltados ao ensino e a projetos de tecnologia. Atualmente, trabalha com projetos envolvendo eletronica.
 
 <!--
 **gustii17/gustii17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
